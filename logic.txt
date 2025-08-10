@@ -1,0 +1,9 @@
+1. Directory list:
+(for example)
+crdir assets\fonts
+crdir assets\graphics
+2. File transmission
+ftr \assets\graphics bg.png\n*file data*f_end
+etc.
+3. End transmission
+Stop_transmission
