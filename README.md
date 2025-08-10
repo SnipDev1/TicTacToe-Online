@@ -1,1 +1,1 @@
-.
+This is a multiplayer tic-tac-toe game. It is server-based, so players can't cheat. You need to start `server.py` and then both clients.  
